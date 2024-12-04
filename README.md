@@ -22,12 +22,11 @@ The project leverages a robust dataset of 15,000+ reviews and provides an intuit
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages & Tools:** Python, TensorFlow, Streamlit, NLTK, Scikit-learn  
+- **Languages & Tools:** Python, TensorFlow, NLTK, Scikit-learn  
 - **Libraries:**  
   - `pandas` and `numpy` for data manipulation  
   - `nltk` for text preprocessing  
   - `TensorFlow` for building and training the RNN model  
-  - `Streamlit` for creating an interactive user interface  
 
 ---
 
